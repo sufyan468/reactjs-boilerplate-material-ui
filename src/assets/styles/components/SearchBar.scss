@@ -1,0 +1,13 @@
+.search-main-div {
+    display: flex;
+    position: relative;
+    height: 40px;
+}
+.search-main-div input {
+    padding-left: 2.5rem !important;
+}
+.search-icon-main {
+    position: absolute;
+    top: 0.59rem;
+    left: 0.6rem;
+}

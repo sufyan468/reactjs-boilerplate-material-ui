@@ -1,0 +1,19 @@
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    height: 40px !important;
+    color: var(--coal);
+    padding: 4px 14px;
+    border-radius: 0px;
+
+    font-family: var(--theme-font);
+}
+// .MuiCheckbox-root {
+//     padding: 0px !important;
+// }
+.input[type='checkbox'] {
+    accent-color: #0099ff;
+}
+textarea {
+    width: 100%;
+    border: 0.5px solid #d8d8d8;
+    padding: 1rem 0rem 0rem 0.5rem;
+}

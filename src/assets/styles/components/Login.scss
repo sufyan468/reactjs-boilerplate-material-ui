@@ -1,0 +1,32 @@
+.btnGroupRight {
+    border-right: 0px !important;
+}
+.rightSide {
+    background: linear-gradient(to top, #0099ffcc, #0099ffcc), url(../../images/RigthSide.png) no-repeat top center;
+
+    // background: #0099ff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.VerifPin-rightSide {
+    background: linear-gradient(to top, #0099ffcc, #0099ffcc), url(../../images/verifyLogin.png) no-repeat top center;
+
+    // background: #0099ff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.rightSide-forgotPsw {
+    background: linear-gradient(to top, #0099ffcc, #0099ffcc), url(../../images/forgotpsw.png) no-repeat top center;
+
+    // background: #0099ff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+@media (max-width: 440px) {
+    .FllWidthBtn {
+        width: 100%;
+    }
+}
