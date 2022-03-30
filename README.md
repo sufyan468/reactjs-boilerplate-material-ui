@@ -1,5 +1,3 @@
-# React Js Boilerplate with Redux Toolkit + MUI
-
 # Getting Started
 
 <p align="center">
