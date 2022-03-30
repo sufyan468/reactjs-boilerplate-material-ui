@@ -1,5 +1,9 @@
 # Getting Started
 
+<p align="center">
+  <img src="./src/assets/images/React-boilerplates.png" width="100%" alt="React Js Image">
+</p>
+
 This is a boilerplate application for use across **Developers** based on React.
 
 ### About this repository
