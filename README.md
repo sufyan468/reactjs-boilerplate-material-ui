@@ -7,4 +7,15 @@ A boilerplate/starter project for quickly building React JS app using Redux Tool
 To create a project, simply run:
 
 1- Clone the Repo
-2- Just install the Node Modules Using this command (npm i)
+### `git clone + repo name`
+  
+2- Just install the Node Modules Using this command 
+
+### `npm i`
+
+3- After install the Node Modules start the app
+
+### `npm start`
+
+
+
